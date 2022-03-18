@@ -1,8 +1,8 @@
 # Victoria Marto Dias - RA 1460482121022
 
-## Ciclo de vida do desenvolvimento de Softwares (Plataforma de Ensino)
+# Ciclo de vida do desenvolvimento de Softwares (Plataforma de Ensino)
 
-### 📓Requisitos
+## 📓Requisitos
 
 > Funcionais: (Caso de uso)
 <br>
@@ -24,7 +24,7 @@ São todas as necessidades que não podem ser atendidas através de funcionalida
 
 </div>  
 
-### 📓Projeto
+## 📓Projeto
 
 > Classes 
 
@@ -34,7 +34,7 @@ São todas as necessidades que não podem ser atendidas através de funcionalida
 
 </div>
 
-### 📓Desenvolvimento
+## 📓Desenvolvimento
 
 > Classes e JAVA
 <br>
