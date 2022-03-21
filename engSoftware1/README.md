@@ -7,6 +7,7 @@
 > Funcionais: (Caso de uso)
 <br>
 
+
 São as funcionalidades de um sistema, é o que define o que o sistema fará;
 
 <div align="center">
@@ -16,11 +17,14 @@ São as funcionalidades de um sistema, é o que define o que o sistema fará;
 </div>
 
 > Não funcionais: (Heuristics)
+
 <br>
 
 São todas as necessidades que não podem ser atendidas através de funcionalidades, as qualidades de um sistema;
 
 <div align="center">
+	
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/80860267/159377338-0c7f6d28-2879-41ca-84e9-5038d8779fc3.png)
 
 </div>  
 
