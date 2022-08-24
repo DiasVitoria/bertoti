@@ -31,6 +31,8 @@
 ### 4. <a href="#robusto"> Robusto </a>
 * 4.1<a href="#4.1"> Compatível </a>
 
+<hr>
+
 <span id="perceptivel">
 
 ### 1. Perceptível
