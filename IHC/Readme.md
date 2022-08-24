@@ -41,9 +41,7 @@ As informações e os componentes da interface do usuário devem ser apresentáv
 
 #### 1.1 - Alternativas de Texto
 Forneça alternativas de texto para qualquer conteúdo que não seja de texto para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, braille, fala, símbolos ou linguagem mais simples.
-
-imagem
-
+  
 Podemos utilizar em html um código "alt" para descrever o que temos na imagem, para que o leitor de acessibilidade possa descrever-la
 
 Ex: 
