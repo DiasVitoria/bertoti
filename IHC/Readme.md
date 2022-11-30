@@ -26,7 +26,6 @@
 * 2.4<a href="#2.4"> Navegável </a>
 ### 3. <a href="#compreensivel"> Compreensível </a>
 * 3.1<a href="#3.1"> Legível </a>
-* 3.2<a href="#3.2"> Previsível </a>
 * 3.3<a href="#3.3"> Assistência de entrada </a>
 ### 4. <a href="#robusto"> Robusto </a>
 * 4.1<a href="#4.1"> Compatível </a>
@@ -157,7 +156,7 @@ Forneça maneiras de ajudar o usuário a navegar, encontrar conteúdo e determin
     
 ### 3.0 Compreensível
   
-  <span id="3.1">
+ <span id="3.1">
 
 #### 3.1 Legível
     
@@ -165,7 +164,7 @@ A linguagem humana padrão de cada página da Web pode ser determinada programat
 
 <section align="center">
   
-![exemplo-legivel](images/legivel.png)
+![exemplo-legivel](images/legiv.png)
   
 </section>
   
@@ -179,98 +178,37 @@ A linguagem humana padrão de cada página da Web pode ser determinada programat
  
   </section>
      
-<div align="center">
-  <img width="700px" src="./images/exemploLegivel.png">
-</div>
-
-Exemplo de NÃO USO:
-
-<div align="center">
-  <img width="700px" src="./images/exemploSemLegivel.png">
-</div>
-
-<br>
-
-<h3 id="3.2_previsivel">3.2 Previsível</h3>
-Páginas da Web, aplicativos e interfaces online devem ser intuitivos e previsíveis em como funcionam. Os sites geralmente têm uma estrutura definida. Isso ajuda as pessoas a encontrar facilmente informações desejadas.
-
-Exemplo de USO e NÃO USO:
-
-<div align="center">
-  <img width="700px" src="./images/exemploIntuitiva.jpg">
-</div>
-
-<br>
-
-<h3 id="3.3_assistencia_de_entrada">3.3 Assistência de Entrada</h3>
+ <span id="3.3">
+     
+#### 3.3 Assistência de Entrada
+     
 Ajude o usuário a evitar, buscar e corrigir os erros.
 
-Exemplo:
+<section align="center">
+  
+![exemplo-assistencia](images/assist.png)
+  
+</section>
+  
+  > Exemplo de site assistência de entrada
 
-<div align="center">
-  <img width="700px" src="./images/exemploAssistenciaEntrada.jpg">
-</div>
-
-<br>
-
-<h2 id="4.robusto">4. Robusto</h2>
-O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla variedade de agentes de usuário, incluindo tecnologias assistivas.
-
-<h3 id="4.1_compativel">4.1 Compatível</h3>
-No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programáticamente por meio de função ou propriedades, de modo que possam ser apresentadas ao usuário por tecnologias assistivas sem receber foco.
-
-Exemplo:
-
-<div align="center">
-  <img width="700px" src="./images/exemploCompativel.png">
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span id="operavel">
-
-### 2. Operável
-
-Os componentes da interface do usuário e a navegação devem ser operáveis.
-
-<span id="compreensivel">
-
-### 3. Compreensível
-
-As informações e a operação da interface do usuário devem ser compreensíveis.
-
-<span id="robusto">
-
+ <span id="robusto">
+   
 ### 4. Robusto
-
+   
 O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla variedade de agentes de usuário, incluindo tecnologias assistivas.
+
+<span id="4.1"> 
+   
+#### 4.1 Compatível
+  
+No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programáticamente por meio de função ou propriedades, de modo que possam ser apresentadas ao usuário por tecnologias assistivas sem receber foco.
+  
+<section align="center">
+  
+![exemplo-compativel](images/online.png)
+  
+</section>
+  
+  > Exemplo de status do msn (antigo, porém utilizava das normas)
+
