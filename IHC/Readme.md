@@ -24,7 +24,6 @@
 * 2.2<a href="#2.2"> Tempo suficiente </a>
 * 2.3<a href="#2.3"> Convulsões e reações fisícas </a>
 * 2.4<a href="#2.4"> Navegável </a>
-* 2.5<a href="#2.5"> Modalidades de entrada </a>
 ### 3. <a href="#compreensivel"> Compreensível </a>
 * 3.1<a href="#3.1"> Legível </a>
 * 3.2<a href="#3.2"> Previsível </a>
@@ -95,69 +94,91 @@ O conteúdo não restringe sua visualização e operação a uma única orienta�
   
   <section align="center">
   
-  ![exemplo-distinçao](images/distincao.png)
-    
+  ![exemplo-distinçao](images/distinguivel.png)
+ 
   </section>
   
-Exemplo de NÃO distinguível:
+  > Exemplo de site distinguível:  [Clique aqui](https://www.rocketseat.com.br/)
+  
+  
+<span id="operavel">
 
-<div align="center">
-  <img width="700px" src="./images/exemploSemDistinguivel.png">
-  <br />
-  <h4>Nessa parte da página home percebe-se que o branco do notebook da imagem não se distingue do fundo branco da página, encontrada no site da Sabesp.</h4>
-</div>
-
-
-<br>
-
-<h2 id="2.operavel">2. Operável</h2>
-
-<h3 id="2.1_teclado_acessivel">2.1 Teclado Acessível</h3>  
+  ### 2.0 - Operável
+  
+  <span id="2.1">
+  
+  #### 2.1 Teclado Acessível
+  
 Todas as funcionalidades devem ser interativas a partir de um teclado.
 
-Exemplo de uso de teclas de atalho no twitter:
+ <section align="center">
+  
+  ![exemplo-atalhos](images/atalhos.png)
+ 
+  </section>
 
-<div align="center">
-  <img width="700px" src="./images/exemploTeclado.jpg">
-</div>
-
-
-<br>
-
-<h3 id="2.2_tempo_suficiente">2.2 Tempo Suficiente</h3>
+> Exemplo de uso de teclas de atalho no Discord
+  
+  <span id="2.2">
+  
+#### 2.2 Tempo Suficiente
+    
 Permita que os conteúdos a serem exibidos permaneçam na tela por tempo suficiente para que possam ser lidos.
+    
+<section align="center">
+  
+![exemplo-tempo](images/tempo.png)
+  
+</section>
+    
+> Vídeo utilizado para exemplificar o tempo suficiente - [Clique aqui](https://www.youtube.com/watch?v=ZfUwFCCCDh0&ab_channel=serfrontend)
 
-Exemplo de uso em vídeos do youtube:
-
-<div align="center">
-  <img width="700px" src="./images/exemploTempoSuficiente.png">
-</div>
-<br>
-
-<h3 id="2.3_convulsoes_e_reacoes_fisicas">2.3 Convulsões e Reações Fisícas</h3>
+<span id="2.3">
+    
+#### 2.3 Convulsões e Reações Fisícas
+  
 A epilepsia fotossensível é uma condição em que as convulsões são desencadeadas por luzes intermitentes ou padrões contrastantes de luz e escuridão. Tendo em mente essa condição o uso de luzes e super-estímulos vizuais devem ser evitados, caso não seja posível devemos aletar o usuário antes que ele seja exposto a esse típo de conteúdo.
 
+  <span id="2.4">
 
-<h3 id="2.4_navegavel">2.4 Navegável</h3>
+#### 2.4 Navegável
+  
 Forneça maneiras de ajudar o usuário a navegar, encontrar conteúdo e determinar os passos seguintes para chegar ao seu objetivo.
 
-Exemplo de formulário navegável:
+<section align="center">
+  
+![exemplo-navegavel](images/navegavel.png)
+  
+</section>
+  
+  > Exemplo de formulário navegável
 
-<div align="center">
-    <img width="700px" src="./images/exemploNavegavel.png">
-</div>
+<span id="compreensivel">
+    
+### 3.0 Compreensível
+  
+  <span id="3.1">
 
-<br>
-
-<!-- <h3 id="2.5_modalidades_de_entrada">2.5 Modalidades de entrada</h3> -->
-
-<h2 id="3.compreensivel">3. Compreensível</h2>
-
-<h3 id="3.1_legivel">3.1 Legível</h3>
+#### 3.1 Legível
+    
 A linguagem humana padrão de cada página da Web pode ser determinada programaticamente.
 
-Exemplo de USO:
-
+<section align="center">
+  
+![exemplo-legivel](images/legivel.png)
+  
+</section>
+  
+  > Exemplo de site legível - Vemos que pela programação colocamos um:
+    
+   <section align="center">
+     
+```HTML
+<html lang="pt-br">
+```
+ 
+  </section>
+     
 <div align="center">
   <img width="700px" src="./images/exemploLegivel.png">
 </div>
