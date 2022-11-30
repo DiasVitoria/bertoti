@@ -1,5 +1,6 @@
 <section align="center">
 
+# VICTORIA MARTO DIAS - 1460482121022
 # 3º Semestre
 ## 2022
 
@@ -97,6 +98,112 @@ O conteúdo não restringe sua visualização e operação a uma única orienta�
   ![exemplo-distinçao](images/distincao.png)
     
   </section>
+  
+Exemplo de NÃO distinguível:
+
+<div align="center">
+  <img width="700px" src="./images/exemploSemDistinguivel.png">
+  <br />
+  <h4>Nessa parte da página home percebe-se que o branco do notebook da imagem não se distingue do fundo branco da página, encontrada no site da Sabesp.</h4>
+</div>
+
+
+<br>
+
+<h2 id="2.operavel">2. Operável</h2>
+
+<h3 id="2.1_teclado_acessivel">2.1 Teclado Acessível</h3>  
+Todas as funcionalidades devem ser interativas a partir de um teclado.
+
+Exemplo de uso de teclas de atalho no twitter:
+
+<div align="center">
+  <img width="700px" src="./images/exemploTeclado.jpg">
+</div>
+
+
+<br>
+
+<h3 id="2.2_tempo_suficiente">2.2 Tempo Suficiente</h3>
+Permita que os conteúdos a serem exibidos permaneçam na tela por tempo suficiente para que possam ser lidos.
+
+Exemplo de uso em vídeos do youtube:
+
+<div align="center">
+  <img width="700px" src="./images/exemploTempoSuficiente.png">
+</div>
+<br>
+
+<h3 id="2.3_convulsoes_e_reacoes_fisicas">2.3 Convulsões e Reações Fisícas</h3>
+A epilepsia fotossensível é uma condição em que as convulsões são desencadeadas por luzes intermitentes ou padrões contrastantes de luz e escuridão. Tendo em mente essa condição o uso de luzes e super-estímulos vizuais devem ser evitados, caso não seja posível devemos aletar o usuário antes que ele seja exposto a esse típo de conteúdo.
+
+
+<h3 id="2.4_navegavel">2.4 Navegável</h3>
+Forneça maneiras de ajudar o usuário a navegar, encontrar conteúdo e determinar os passos seguintes para chegar ao seu objetivo.
+
+Exemplo de formulário navegável:
+
+<div align="center">
+    <img width="700px" src="./images/exemploNavegavel.png">
+</div>
+
+<br>
+
+<!-- <h3 id="2.5_modalidades_de_entrada">2.5 Modalidades de entrada</h3> -->
+
+<h2 id="3.compreensivel">3. Compreensível</h2>
+
+<h3 id="3.1_legivel">3.1 Legível</h3>
+A linguagem humana padrão de cada página da Web pode ser determinada programaticamente.
+
+Exemplo de USO:
+
+<div align="center">
+  <img width="700px" src="./images/exemploLegivel.png">
+</div>
+
+Exemplo de NÃO USO:
+
+<div align="center">
+  <img width="700px" src="./images/exemploSemLegivel.png">
+</div>
+
+<br>
+
+<h3 id="3.2_previsivel">3.2 Previsível</h3>
+Páginas da Web, aplicativos e interfaces online devem ser intuitivos e previsíveis em como funcionam. Os sites geralmente têm uma estrutura definida. Isso ajuda as pessoas a encontrar facilmente informações desejadas.
+
+Exemplo de USO e NÃO USO:
+
+<div align="center">
+  <img width="700px" src="./images/exemploIntuitiva.jpg">
+</div>
+
+<br>
+
+<h3 id="3.3_assistencia_de_entrada">3.3 Assistência de Entrada</h3>
+Ajude o usuário a evitar, buscar e corrigir os erros.
+
+Exemplo:
+
+<div align="center">
+  <img width="700px" src="./images/exemploAssistenciaEntrada.jpg">
+</div>
+
+<br>
+
+<h2 id="4.robusto">4. Robusto</h2>
+O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla variedade de agentes de usuário, incluindo tecnologias assistivas.
+
+<h3 id="4.1_compativel">4.1 Compatível</h3>
+No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programáticamente por meio de função ou propriedades, de modo que possam ser apresentadas ao usuário por tecnologias assistivas sem receber foco.
+
+Exemplo:
+
+<div align="center">
+  <img width="700px" src="./images/exemploCompativel.png">
+</div>
+
 
 
 
