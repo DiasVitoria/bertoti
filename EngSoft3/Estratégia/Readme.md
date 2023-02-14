@@ -16,7 +16,6 @@
 </div>
 
 <div align="justify">
-![interface](https://user-images.githubusercontent.com/80860267/218605566-cd0d2647-0168-4910-b771-b814acf72e14.png)
 
 * O Strategy (ou Estratégia) é um padrão de projeto comportamental que permite definir uma família de algoritmos, colocando-os em classes separadas, e fazendo os objetos intercambiáveis.
 
