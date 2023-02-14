@@ -27,26 +27,26 @@
 
 <div align="center">
 
-![funções drawio](https://user-images.githubusercontent.com/80860267/218602790-8d48676b-e31b-498e-83cf-c148c693fd6e.png)
+![funções drawio](https://user-images.githubusercontent.com/80860267/218763101-b3f73134-33ef-4568-a51b-897603764a10.png)
 
 </div>
 
-![Colaborador](https://user-images.githubusercontent.com/80860267/218604116-d97f6e1b-fea3-457f-b665-550b9d914bee.png) 
+![Colaborador](https://user-images.githubusercontent.com/80860267/218763405-2c033810-2c8a-475e-8ba9-0a98432c6686.png)
 
 ```JAVA
 
 public class Colaborador{
-  private Colaborador: colaborador
-  private nomeCompleto: String
-  private salario: double
-  private numIdentificador: int
+  private Funcao funcao;
+  private String nomeCompleto;
+  private double salario;
+  private int numIdentificador;
   
-  public void SetFuncao(Colaborador colaborador){
-    colaborador = colaborador;
+  public void SetFuncao(Funcao funcao){
+    this.funcao = funcao;
   }
   
   public void RealizarFuncao(){
-    colaborador.Executar();
+    funcao.Executar();
   }
 }
 
@@ -66,7 +66,7 @@ public interface Funcao{
 
 ```JAVA
 
-public class implements Funcao{
+public class Operario implements Funcao{
     public void OperarMaquina(){
      
     };
@@ -84,7 +84,7 @@ public class implements Funcao{
 
 ```JAVA
 
-public class implements Funcao{
+public class Lider implements Funcao{
     public void DelegarTarefas(){
      
     };
@@ -102,7 +102,7 @@ public class implements Funcao{
 
 ```JAVA
 
-public class implements Funcao{
+public class Qualidade implements Funcao{
     public void RevisarPadroes(){
      
     };
@@ -116,4 +116,11 @@ public class implements Funcao{
 
 ```
 
+```JAVA
+public class Main{
+  public static void main(String[] args) {
+    Colaborador colaborador = new Colaborador();
+    colaborador.SetFuncao(new Qualidade());
+    colaborador.Funcao.Executar();
+}
 
