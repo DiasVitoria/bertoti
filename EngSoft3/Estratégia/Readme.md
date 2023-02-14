@@ -66,7 +66,7 @@ public interface Funcao{
 
 ```JAVA
 
-public implements Funcao{
+public class implements Funcao{
     public void OperarMaquina(){
      
     };
@@ -84,7 +84,7 @@ public implements Funcao{
 
 ```JAVA
 
-public implements Funcao{
+public class implements Funcao{
     public void DelegarTarefas(){
      
     };
@@ -102,7 +102,7 @@ public implements Funcao{
 
 ```JAVA
 
-public implements Funcao{
+public class implements Funcao{
     public void RevisarPadroes(){
      
     };
