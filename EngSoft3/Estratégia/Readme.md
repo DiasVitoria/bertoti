@@ -36,10 +36,10 @@
 ```JAVA
 
 public class Colaborador{
-  Private Colaborador: colaborador
-  Private nomeCompleto: String
-  Private salario: double
-  Private numIdentificador: int
+  private Colaborador: colaborador
+  private nomeCompleto: String
+  private salario: double
+  private numIdentificador: int
   
   public void SetFuncao(Colaborador colaborador){
     colaborador = colaborador;
