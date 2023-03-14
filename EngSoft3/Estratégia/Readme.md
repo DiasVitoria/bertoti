@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![gerenciamento](https://user-images.githubusercontent.com/80860267/224574160-bde5d4bd-4637-4c08-9c22-21346860e473.png)
+![gerencimanto drawio](https://user-images.githubusercontent.com/80860267/225028741-b5d78f5c-cde1-43be-8c0b-db1bef1e4260.png)
 
 </div>
 
