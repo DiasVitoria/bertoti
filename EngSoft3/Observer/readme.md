@@ -1,3 +1,3 @@
 Observer
 
-![vitoriaEstrategia1](https://github.com/DiasVitoria/bertoti/assets/80860267/3181f52e-ff1d-4e49-892b-1e1d1941d0d6)
+![observerVitoria (1)](https://github.com/DiasVitoria/bertoti/assets/80860267/413833bf-50f5-4835-927b-6a1b12a201fb)
