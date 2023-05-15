@@ -23,11 +23,11 @@
 
  </div>
  
- > Exemplo de UML de gerenciamento de estoque.
+ > Exemplo de UML para calculadora.
 
 <div align="center">
-
-![gerencimanto drawio](https://user-images.githubusercontent.com/80860267/225028741-b5d78f5c-cde1-43be-8c0b-db1bef1e4260.png)
+  
+![vitoriaEstrategia1](https://github.com/DiasVitoria/bertoti/assets/80860267/6d2ccf55-77f2-48c7-8375-9d0639a0aebd)
 
 </div>
 
