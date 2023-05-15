@@ -5,7 +5,7 @@ public class Conexao {
   private Conexao(){
   }
   
-  public getInstance(){
+  public static getInstance(){
     if(instance == null){
       instance = new Conexao();
       return instance;
