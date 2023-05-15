@@ -7,7 +7,7 @@ public class Multiplicacao implements OperacaoMatematica {
 
     lista.stream().forEach((k) -> {
       resultado = resultado * k;
-    })
+    });
 
     return resultado;
   }

@@ -2,7 +2,7 @@ public class Calculadora {
   
   private Operacao operacao;
   
-  public setOperacao(Operacao operacao){
+  public void setOperacao(Operacao operacao){
     this.operacao = operacao;
   }
   

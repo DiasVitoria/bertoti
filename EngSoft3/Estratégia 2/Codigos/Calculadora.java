@@ -5,11 +5,11 @@ public class Calculadora {
   private Operacao operacao;
   private List<double> lista;
   
-  public setOperacao(Operacao operacao){
+  public void setOperacao(Operacao operacao){
     this.operacao = operacao;
   }  
 
-  public setNumeros(List<double> lista){
+  public void setNumeros(List<double> lista){
     this.lista = lista;
   }
   

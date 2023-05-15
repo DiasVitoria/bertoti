@@ -10,7 +10,7 @@ public class Subtracao implements OperacaoMatematica {
 
     lista.stream().forEach((k) -> {
       resultado -= k;
-    })
+    });
 
     return resultado;
   }
