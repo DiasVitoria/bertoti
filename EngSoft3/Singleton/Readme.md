@@ -27,7 +27,7 @@
 
 <div align="center">
   
-![vitoriaEstrategia1](https://github.com/DiasVitoria/bertoti/assets/80860267/6d2ccf55-77f2-48c7-8375-9d0639a0aebd)
+  ![singletonVitoria](https://github.com/DiasVitoria/bertoti/assets/80860267/97b8aaf4-404e-4135-86d4-760f4e2e95ba)
 
 </div>
 
