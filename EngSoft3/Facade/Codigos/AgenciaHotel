@@ -1,0 +1,7 @@
+public class AgenciaHotel {
+  
+  public void reservar(){
+    System.out.println("Diária de hotel reservada!");
+  }
+  
+}
