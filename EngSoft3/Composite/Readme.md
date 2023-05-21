@@ -11,19 +11,19 @@
 
 <div align="center">
 
-## Estratégia
+## Composite
   
 </div>
 
 <div align="justify">
 
-* O Strategy (ou Estratégia) é um padrão de projeto comportamental que permite definir uma família de algoritmos, colocando-os em classes separadas, e fazendo os objetos intercambiáveis.
+* Composite é um padrão de design estrutural que permite compor objetos em estruturas de árvore e depois trabalhar com essas estruturas como se fossem objetos individuais.
 
-* Este padrão sugere que você pegue uma classe que faz algo específico em diversas maneiras diferentes e extraindo todos esses algoritmos para classes separadas chamadas estratégias.
+* Composite só faz sentido quando o modelo principal do seu aplicativo pode ser representado como uma árvore. 
 
  </div>
  
- > Exemplo de UML para calculadora.
+ > Exemplo de UML para Folha.
 
 <div align="center">
   
