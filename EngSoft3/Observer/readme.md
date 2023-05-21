@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## Estratégia
+## Observer
   
 </div>
 
