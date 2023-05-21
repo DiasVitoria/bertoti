@@ -17,13 +17,13 @@
 
 <div align="justify">
 
-* O Strategy (ou Estratégia) é um padrão de projeto comportamental que permite definir uma família de algoritmos, colocando-os em classes separadas, e fazendo os objetos intercambiáveis.
+* Facade é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
 
-* Este padrão sugere que você pegue uma classe que faz algo específico em diversas maneiras diferentes e extraindo todos esses algoritmos para classes separadas chamadas estratégias.
+* Facade é uma classe que fornece uma interface simples para um subsistema complexo que contém muitas partes móveis. Uma Facade pode fornecer funcionalidade limitada em comparação com o trabalho direto com o subsistema. No entanto, inclui apenas os recursos com os quais os clientes realmente se importam.
 
  </div>
  
- > Exemplo de UML para calculadora.
+ > Exemplo de UML para uma agência de viagem.
 
 <div align="center">
   
