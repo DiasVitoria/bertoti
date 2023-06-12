@@ -25,7 +25,7 @@
 
 <div align="center">
   
-  ![singletonVitoria](https://github.com/DiasVitoria/bertoti/assets/80860267/97b8aaf4-404e-4135-86d4-760f4e2e95ba)
+ ![Sem título](https://github.com/DiasVitoria/bertoti/assets/80860267/2b0ac6e7-cbbf-4114-84dd-db1eb6f08cb0)
 
 </div>
 
