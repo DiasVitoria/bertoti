@@ -27,9 +27,9 @@
 
 <div align="center">
   
-![facadeVitoria2](https://github.com/DiasVitoria/bertoti/assets/80860267/b4b39058-decc-4ebd-bd2f-ec39d968f7cb)
+  ![Sem título](https://github.com/DiasVitoria/bertoti/assets/80860267/63150656-3bbd-48aa-aecd-4ce089437c89)
 
-</div>
+ </div>
 
 
 
